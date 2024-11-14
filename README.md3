@@ -1,7 +1,8 @@
 #               TİP DÖNÜŞÜM KULLANIMLARI
-
-1. YÖNTEM
+"""
+#       1. YÖNTEM
 a=input()
 a=int(a)
-2.YÖNTEM
+#      2.YÖNTEM
 a=int(input())
+"""
